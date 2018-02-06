@@ -1,0 +1,2 @@
+app_name = tortoise
+cli_args = '--error'
